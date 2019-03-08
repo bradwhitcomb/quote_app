@@ -1,2 +1,2 @@
 # quote_app
-Tool to generate quotes for a print shop
+Tkinter Tool to generate quotes for a print shop
